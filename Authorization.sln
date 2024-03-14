@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ads.Web", "Ads.Web\Ads.Web.csproj", "{00D892D8-D457-4115-B0A7-F2C657F0761A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ads.Data", "Ads.Data\Ads.Data.csproj", "{7667C284-7E2E-4153-8189-C4B9B9318BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00D892D8-D457-4115-B0A7-F2C657F0761A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D892D8-D457-4115-B0A7-F2C657F0761A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D892D8-D457-4115-B0A7-F2C657F0761A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D892D8-D457-4115-B0A7-F2C657F0761A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7667C284-7E2E-4153-8189-C4B9B9318BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7667C284-7E2E-4153-8189-C4B9B9318BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7667C284-7E2E-4153-8189-C4B9B9318BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7667C284-7E2E-4153-8189-C4B9B9318BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3A244EB-4914-4A42-81E7-CF59BDCB5BCA}
+	EndGlobalSection
+EndGlobal
